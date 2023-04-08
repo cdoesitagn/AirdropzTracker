@@ -1,0 +1,10 @@
+a {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0.4cm;
+    text-align: end;
+}
+
+.web-link a{
+    justify-content: right;
+    text-align: right;
+}
